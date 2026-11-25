@@ -1,0 +1,13 @@
+# Compilados de Maven
+target/
+
+# Archivos del IDE
+.idea/
+*.iml
+.vscode/
+nbproject/
+
+# Ficheros que no hacen falta en el repositorio
+*.zip
+*.docx
+cp.txt
